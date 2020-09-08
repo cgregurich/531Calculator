@@ -1,1 +1,5 @@
 __pycache__/
+531Calculator.spec
+build/
+dist/
+mainapp.spec
